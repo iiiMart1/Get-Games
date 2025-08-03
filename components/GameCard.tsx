@@ -12,7 +12,7 @@ interface GameCardProps {
   downloadUrl: string;
 }
 
-export function GameCard({ id, title, image, rating, downloads, size, category, downloadUrl }: GameCardProps) {
+export function GameCard({ id:_id, title, image, rating, downloads, size, category, downloadUrl }: GameCardProps) {
   const handleDownload = () => {
     // Open the download URL in a new tab
     window.open(downloadUrl, '_blank');
