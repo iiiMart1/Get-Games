@@ -11,7 +11,7 @@ export function Header() {
               <span className="text-white text-sm">G</span>
             </div>
             <h1 className="text-white text-lg bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-              GameVault
+              Get Games
             </h1>
           </div>
 
