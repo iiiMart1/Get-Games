@@ -7,9 +7,10 @@ export function Header() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-lg flex items-center justify-center">
-              <span className="text-white text-sm">G</span>
-            </div>
+            <img
+              src="assets/Get Games Icon.svg"
+              className="w-8 h-8 object-contain rounded"
+             />
             <h1 className="text-white text-lg bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
               Get Games
             </h1>
