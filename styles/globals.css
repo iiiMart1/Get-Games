@@ -124,11 +124,9 @@
 
 @layer base {
   * {
-    border-color: var(--border);
-outline-color: var(--ring);
-outline-width: 2px;
-outline-style: solid;
-  }
+  border-color: var(--border);
+  outline: none;
+}
 
   body {
   background-color: var(--background);
