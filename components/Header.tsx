@@ -12,9 +12,10 @@ export function Header() {
               alt = "Logo"
               className="w-8 h-8 object-contain rounded"
              />
-            <h1 className="text-white text-lg bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
+            <h1 className="text-white text-2xl sm:text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
               Get Games
             </h1>
+
           </div>
 
           {/* Actions */}
