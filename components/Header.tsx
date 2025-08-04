@@ -8,7 +8,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center gap-2">
             <img
-              src="..\assets\Logo.svg"
+              src="../assets/Logo.svg"
               alt = "Logo"
               className="w-8 h-8 object-contain rounded"
              />
