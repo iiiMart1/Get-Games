@@ -7,7 +7,7 @@ const allGames = [
   {
     id: "1",
     title: "Assetto Corsa (lookalike version)",
-    image: "/assets/Assetto Corsa.jpg",
+    image: "https://assettocorsa.gg/wp-content/uploads/24-3-e1750148011178-1440x809.jpg",
     rating: 3.9,
     downloads: "10M+",
     size: "900MB",
