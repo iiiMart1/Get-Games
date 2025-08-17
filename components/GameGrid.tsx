@@ -6,13 +6,13 @@ const allGames = [
   // Initial 8 games
   {
     id: "1",
-    title: "Cyber Legends",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=300&fit=crop",
-    rating: 4.8,
-    downloads: "1M+",
-    size: "2.1GB",
-    category: "Action",
-    downloadUrl: "https://example.com/download/cyber-legends"
+    title: "Assetto Corsa (lookalike version)",
+    image: "/assets/Assetto Corsa.jpg",
+    rating: 3.9,
+    downloads: "10M+",
+    size: "900MB",
+    category: "Racing",
+    downloadUrl: "https://locked2.com/cl/i/e6gvek"
   },
   {
     id: "2",
